@@ -1,0 +1,6 @@
+[ACCOUNT]
+USERNAME=
+PASSWORD=
+
+[APP]
+CHROMEDRIVER_PATH=/usr/lib/chromium-browser/chromedriver
